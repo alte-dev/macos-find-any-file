@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+.swiftpm/
+*.zip
+*.dmg
+dmg-background.*
+Find Any File.app/
+.vscode/
+
+release-assets/
